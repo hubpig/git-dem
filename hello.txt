@@ -6,3 +6,4 @@ hello zeng! hello jiang!
 git push by zca:w
 1b
 git want to pull by horse
+jdzBin update
