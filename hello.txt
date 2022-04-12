@@ -3,5 +3,6 @@ hello git! hello bin!
 hello bin
 hello zeng! hello jiang!
 11111111111
-git push by zcb
+git push by zca:w
+1b
 git want to pull by horse
